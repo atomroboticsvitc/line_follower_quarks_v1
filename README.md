@@ -2,7 +2,7 @@
 Line follower robot based on the greyrobotics lfs-6 IR sensor array
 
 
-ELECTRONICS:
+Electronics:
 Arduino Nano
 Greyrobotics LFS-6 IR sensor array
 DRV8833 motor driver
